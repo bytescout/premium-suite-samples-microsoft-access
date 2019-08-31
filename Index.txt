@@ -1,0 +1,6 @@
+## Index of source code examples:
+
+\Add barcode in report with barcode sdk
+\Insert barcode into pdf document with barcode sdk
+\Read barcode from pdf file with barcode reader sdk
+\Save barcode as png image file with barcode sdk
